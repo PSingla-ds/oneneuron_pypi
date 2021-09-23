@@ -1,7 +1,3 @@
-""" 
-author: Preeti  
-email: psinglads@gmail.com
-"""
 import numpy as np
 import logging
 from tqdm import tqdm
